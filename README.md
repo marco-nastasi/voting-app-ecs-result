@@ -6,8 +6,8 @@ This repository contains the source code and a CI/CD pipeline to deploy the **re
 
 - [Components](#components)
 - [Usage](#usage)
-- [Github Actions variables and secrets](#vars-secrets)
-- [CI/CD Workflow steps](#ci/cd)
+- [Github Actions variables and secrets](#github-actions-variables-and-secrets)
+- [CI/CD Workflow steps](#ci/cd-workflow-steps)
 
 ## Components:
 
